@@ -33,3 +33,10 @@ This repository contains a detailed checklist developed as part of the **Google 
 ## 🔒 License
 
 This project is shared for educational and portfolio purposes only.
+
+
+---
+
+## 🔒 License
+
+This project is shared for educational and portfolio purposes only.
