@@ -41,3 +41,4 @@ Implement DNS uptime monitoring
 Set up alerting for ICMP error spikes
 Add secondary DNS server for redundancy
 This report was created as part of the Google Cybersecurity Certificate program. It reflects real-world diagnostic and incident response techniques using tools like tcpdump and standard network analysis protocols.
+
