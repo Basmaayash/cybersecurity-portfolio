@@ -23,9 +23,7 @@ I believe that pursuing the Google Cybersecurity Certificate is the first step t
 
 - 🔹 [SYN Flood Attack Analysis](syn-flood-attack-report/syn-flood-attack-report.md)
 - 🔹[DNS & ICMP Incident Report (Markdown)](dns-icmp-incident-report/dns-icmp-incident-report.md)
-
-- [README](cybersecurity-controls-checklist/README.md)
-- [Botium Toys Security Assessment](cybersecurity-controls-checklist/botium-toys-cybersecurity-assessment.md)
+- 🔹 [Cybersecurity Controls Checklist](cybersecurity-controls-checklist/README.md),(cybersecurity-controls-checklist/botium-toys-cybersecurity-assessment.md)
 ---
 
 ## 📄 Documentation
