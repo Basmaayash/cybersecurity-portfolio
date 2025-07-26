@@ -1,12 +1,8 @@
-> ⚠️ *This repository is part of my learning journey in cybersecurity. All examples and projects are fictional and created for educational purposes as part of the Google Cybersecurity Certificate.*
+⚠️ This repository is part of my learning journey in cybersecurity. All examples and projects are fictional and created for educational purposes as part of the Google Cybersecurity Certificate.
 
-![Status](https://img.shields.io/badge/Status-Learning--In--Progress-blue)
-![Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-In%20Progress-brightgreen)
-![Language](https://img.shields.io/badge/Written%20in-Markdown-yellow)
+# 🛡️ Cybersecurity Portfolio – Basma
 
-# 🛡️ Cybersecurity Portfolio - Basma
-
-Welcome to my professional cybersecurity portfolio, built during my journey through the **Google Cybersecurity Certificate**. This repository showcases my skills, growth, and passion for the field of cybersecurity.
+Welcome to my professional cybersecurity portfolio, built during my journey through the Google Cybersecurity Certificate. This repository showcases my skills, growth, and passion for the field of cybersecurity.
 
 ---
 
@@ -14,9 +10,24 @@ Welcome to my professional cybersecurity portfolio, built during my journey thro
 
 **Name:** Basma  
 **Major:** Information Technology – Class of 2025  
-**Career Path:** Cybersecurity
+**Career Path:** Cybersecurity  
 
 I am Basma, a recent graduate with a degree in Information Technology (Class of 2025). I began my journey into cybersecurity driven by a deep passion for analyzing and solving problems.  
 Although I am still at the beginning of my path, I have strong motivation and determination to reach my goals. I am genuinely driven to protect individuals and organizations from security threats and cyberattacks.
 
-I believe that pursuing the **Google Cybersecurity Certificate** is the first step toward a successful professional future. It will equip me with the skills I need to grow in this field and contribute to securing the digital world.
+I believe that pursuing the Google Cybersecurity Certificate is the first step toward a successful professional future. It will equip me with the skills I need to grow in this field and contribute to securing the digital world.
+
+---
+
+## 📂 Project Highlights
+
+- 🔹 [SYN Flood Attack Analysis](syn-flood-attack-analysis/)
+- 🔹 [DNS & ICMP Incident Report](dns-icmp-analysis/)
+- 🔹 [Cybersecurity Controls Checklist](cybersecurity-controls-checklist/)
+
+---
+
+## 📄 Documentation
+
+- 📜 [Professional Statement](Docs/professional-statement.md)
+
