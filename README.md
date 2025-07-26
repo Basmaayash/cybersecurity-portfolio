@@ -21,7 +21,7 @@ I believe that pursuing the Google Cybersecurity Certificate is the first step t
 
 ## 📂 Project Highlights
 
-- 🔹 [SYN Flood Attack Analysis](syn-flood-attack-analysis/)
+- 🔹 [SYN Flood Attack Analysis](syn-flood-attack-report/syn-flood-attack-report.md)
 - 🔹 [DNS & ICMP Incident Report](dns-icmp-analysis/)
 - 🔹 [Cybersecurity Controls Checklist](cybersecurity-controls-checklist/)
 
