@@ -1,4 +1,4 @@
-![Security Hardening Report Banner](./banner.png)
+![Security Hardening Report Banner](./banner.png.png)
 # 🔐 Security Hardening Report  
 **Analyst:** Basma  
 **Organization:** Social Media Company  
